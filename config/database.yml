@@ -49,7 +49,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: scavenger_hunt_production
+  database: scavenger_hunt_development
   pool: 5
   username: scavenger_hunt
   password: scavenger_hunt
